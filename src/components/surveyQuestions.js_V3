@@ -1,0 +1,27 @@
+export const maintenancePreventiveQuestions = [
+  // ... (les 20 questions pour la maintenance préventive)
+];
+
+export const amenagementDatacenterQuestions = [
+  // ... (les 20 questions pour l'aménagement datacenter)
+];
+
+export const surveyInformatiqueQuestions = {
+  cablage: [
+    // ... (les 5 questions pour le câblage)
+  ],
+  videosurveillance: [
+    // ... (les 5 questions pour la vidéosurveillance)
+  ],
+  controleAcces: [
+    // ... (les 10 questions pour le contrôle d'accès)
+  ]
+};
+
+export const auditDatacenterQuestions = [
+  // ... (les 20 questions pour l'audit datacenter)
+];
+
+export const maintenanceEnvironnementaleQuestions = [
+  // ... (les 20 questions pour la maintenance environnementale)
+];
